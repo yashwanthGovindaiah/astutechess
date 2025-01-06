@@ -12853,7 +12853,7 @@ body.boxed-wrapper {
     line-height: 24px;
     font-weight: 400;
     display: block;
-    /*margin: 0 0 23px;*/
+    margin: 0 0 2px;
     transition: .3s
 }
 
